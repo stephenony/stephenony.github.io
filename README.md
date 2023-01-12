@@ -8,7 +8,7 @@ Editor: notepad, and not VSCode
 Cafe Menu Design is a part of the FreeCodeCamp.com Html/CSS Tutorial
 
 ## Live link
-stephenony.github.io
-<a href="https://stephenony.github.io"> Cafe menu </a>
+
+<a href="https://stephenony.github.io"> stephenony.github.io </a>
 
 
